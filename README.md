@@ -1,11 +1,10 @@
-# Getting Started with Create React App
+#  Clone da página inicial do Netflix
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/jeferson-moura/exemple-readme/blob/main/LICENSE)
 
-## Available Scripts
+##  descrição do  projeto
 
-In the project directory, you can run:
-
+###  desenvolvemos aqui a paginal inicial do Netflix com algumas das princi funcçoes,participand   ive  da live  organizada pela  https://b7web.com.br/
 ### `npm start`
 
 Runs the app in the development mode.\
