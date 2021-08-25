@@ -16,9 +16,10 @@
 ## Front end
 - HTML / CSS / JS 
 - React
-# Como executar o projeto
-## Entrar no link no começo deste mesmo readme
-## Ou clonar o repositório, baixar e executar o index.html
+
+## executando o projeto
+
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 # Autor
 
@@ -30,5 +31,4 @@ apaixonado por tecnologia.
 
 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
