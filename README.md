@@ -21,12 +21,17 @@
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-# Autor
 
-jeferson Diego moura da silva
+## jeferson Diego moura da silva
 
-Estudante de Análise e Desenvolvimento de Sistemas pela UNINABUCO na modalidade EAD e 
-apaixonado por tecnologia.
+linkedin:
+https://www.linkedin.com/in/jeferson-moura-b358161ab/
+
+diegorealiza26@gmail.com
+
+
+**Estudante de Análise e Desenvolvimento de Sistemas pela UNINABUCO na modalidade EAD e 
+apaixonado por tecnologia.**
 ## aprenda a usar o [markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open) no seu GitHub
 
 
