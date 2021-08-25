@@ -7,7 +7,7 @@
 #### desenvolvemos aqui a paginal inicial do Netflix com algumas das princi funcçoes,participand   ive  da live  organizada pela  https://b7web.com.br/ consumindo API do site https://www.themoviedb.org/
 ### 
 # Imagens
-
+![Alt ou título da imagem](https://github.com/jeferson-moura/Netflixclone/blob/main/src/netflixInitial.png?raw=true)
 
 
 # Tecnologias utilizadas
