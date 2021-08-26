@@ -9,6 +9,7 @@
 # Imagens
 ![Alt ou título da imagem](https://github.com/jeferson-moura/Netflixclone/blob/main/src/netflixInitial.png?raw=true)
 
+![Alt ou título da imagem](https://github.com/jeferson-moura/Netflixclone/blob/main/src/Netflix2.png)
 
 # Tecnologias utilizadas
 ## Back end
