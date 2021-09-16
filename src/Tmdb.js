@@ -1,7 +1,7 @@
 const API_KEY = '5619a147f0997945f9e446ef8d2b58bd'
 const API_BASE = 'https://api.themoviedb.org/3';
 
-/*FILMES QUE SERÃO INSERIDOS NO PROJETO(GENÊROS)
+/*FILMES QUE SERÃO INSERIDOS NO PROJETO(GÊNEROS)
 
 - originais netflix >
 - documentários
